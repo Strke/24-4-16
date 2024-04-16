@@ -1,0 +1,2 @@
+lenet5	nbc	prob	18.7759308815
+lenet5	kmnc	prob	28.9269051552
